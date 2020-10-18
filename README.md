@@ -29,10 +29,10 @@ Essas são as tecnologias utilizadas no desenvolvimento da aplicação.
 ### 4 - Na segunda tela é possível escolher um lar de acolhimento para saber mais detalhes.
 ![Escolha um orfanato](https://github.com/Math3usGS/Happy/blob/main/public/assets/tela_escolhaorfanato.PNG)
 
-### 5 - Ao escolher um orfanato, o usuário é redirecionado para uma página onde se encontram os dados daquele respectivo lar escolhido. Além disso, ele pode entrar em contato com a instituição via Whatsapp para saber mais detalhes e agendar uma visita. 
+### 5 - Ao escolher uma instituição, o usuário é redirecionado para uma página onde se encontram os dados daquele respectivo lar escolhido. Além disso, há a possibilidade de entrar em contato com eles via Whatsapp para saber mais detalhes e agendar uma visita. 
 ![Lar das meninas](https://github.com/Math3usGS/Happy/blob/main/public/assets/orfanato.PNG)
 
-### 5 - Nesta área, a instituição pode cadastrar o seu nome, descrição, fotos, número para contato e também instruções e horários de visitação.
+### 5 - Nesta área, a instituição pode cadastrar o seu nome, descrição, fotos, número para contato e também instruções e horários de visita.
 ![Adicionar uma instituição](https://github.com/Math3usGS/Happy/blob/main/public/assets/adicionar_orfanato.PNG)
 
 ## Características
